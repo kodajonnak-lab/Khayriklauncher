@@ -1,0 +1,9 @@
+КРАТКО
+
+1. Распакуйте ZIP.
+2. Загрузите в корень GitHub-репозитория ВСЁ содержимое, включая .github и scripts. Не загружайте ZIP единственным файлом.
+3. GitHub → Actions → Build KhayrikLauncher (Minecraft Java) → Run workflow.
+4. После успешной сборки откройте запуск → Artifacts → KhayrikLauncher-APK.
+5. Распакуйте Artifact ZIP, чтобы получить APK.
+
+APK пока не собран и workflow в этом чате не запускался.
